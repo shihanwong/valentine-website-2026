@@ -10,13 +10,6 @@ Follow below the tutorial how to custom the website and get your custom URL and 
 
 🌟 **[Live Demo](https://end2endai.github.io/valentine-website-2025)** | 🚀 **[Quick Start](#-quick-start-guide)** | 🌐 **[Deploy Your Website](#4-make-it-live-get-your-online-website-url)**
 
-## 🌟 Share The Love
-
-If you liked it, please :
-- ⭐ Star this repository if you like it
-- 🔄 Fork it to create your own version
-- 🔥 Like and follow on instagram for more websites : [Instagram](https://www.instagram.com/reel/DFh3ZaxtrYX/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
-
 ## ✨ Features
 - 💖 Floating hearts and bears
 - 🎵 Custom music
